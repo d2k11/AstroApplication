@@ -1,0 +1,1 @@
+Console.WriteLine("This library is not intended to be run standalone. Please reference it in a project.");
